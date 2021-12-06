@@ -1,5 +1,5 @@
 API_URL = 'https://paper-api.alpaca.markets'
-API_KEY = 'PKCH279SVWHRZZIN94KZ'
-SECRET_KEY = 'G5NFenVXXcdF0DmTaXENhVLsbfLuV24B5Ghvgbdf'
+API_KEY = ''
+SECRET_KEY = ''
 
 DB_FILE = 'app.db'
