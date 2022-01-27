@@ -27,7 +27,7 @@ jobs:
         # https://github.com/akhileshns/heroku-deploy
         uses: akhileshns/heroku-deploy@v3.12.12
         with:
-          heroku_api_key: ${{ secrets.HEROKU_API_KEY }}
+          heroku_api_key: ${{ secrets.5184832c-3c9b-4233-8235-d1ccab526bbe }}
           heroku_app_name: "technical-trading-stock"
           heroku_email: "michellehlcn.au@gmail.com"
           healthcheck: "https://<technical-trading-stock.herokuapp.com/healthcheck"
